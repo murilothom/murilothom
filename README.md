@@ -1,5 +1,4 @@
 <div>
-  <img aling="center" height="180em" width="180em" style="display: inline-block" style="border-radius: 50em" alt="gif-avatar" src="https://user-images.githubusercontent.com/86668032/177240992-d6522358-8677-4395-95c9-b6aa6c2aa80d.gif"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilothom&layout=compact&theme=dark"/>
 </div>
 
