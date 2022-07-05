@@ -1,10 +1,11 @@
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilothom&layout=compact&theme=dark"/>
+  <img aling="center" height="180em" width="180em" style="display: inline-block" style="border-radius: 50em" alt="gif-avatar" src="https://user-images.githubusercontent.com/86668032/177240992-d6522358-8677-4395-95c9-b6aa6c2aa80d.gif"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilothom&layout=compact&theme=dark"/>
 </div>
 
 <hr>
 
-<div>
+<div style="display: inline-block">
   <img aling="center" alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img aling="center" alt="css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img aling="center" alt="javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
